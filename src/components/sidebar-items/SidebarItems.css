@@ -1,0 +1,11 @@
+.item {
+  margin: 10px;
+  font-weight: 600;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.icon-size {
+  height: 20px;
+  width: 20px;
+}
